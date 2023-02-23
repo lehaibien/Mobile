@@ -1,5 +1,5 @@
-import TrafficLight from "./components/TrafficLight"
+import TrafficLight from "./components/Hello"
 
 export default function App() {
-  return <TrafficLight />
+  return <Hello />
 }
